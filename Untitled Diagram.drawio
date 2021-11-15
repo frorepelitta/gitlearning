@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T10:36:22.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="-3i5NQzgIRwdiJRu3lb0" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T10:38:56.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="KOVcOI7xlEvFrcMeeAGP" version="15.5.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="618" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,15 +34,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="20Uk13qnULqiJdOYjyyt-7" value="Эмпирические&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Опираются на чувства, эмоции&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="477.5" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="20Uk13qnULqiJdOYjyyt-9" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Факты, научные данные, наглядный пример, законы природы&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="70" y="380" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="20Uk13qnULqiJdOYjyyt-17" value="Личный опыт, мнение,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="380" width="125" height="60" as="geometry" />
+          <mxGeometry x="475" y="380" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="20Uk13qnULqiJdOYjyyt-18" value="Спорные:&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Ложные научные данные, мифы, подмена фактов&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="20Uk13qnULqiJdOYjyyt-18" value="Спорные:&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Ложные научные данные, подмена фактов&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="380" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
